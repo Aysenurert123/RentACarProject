@@ -29,5 +29,5 @@ Project is created with:
 ## Setup
 To run this project,
 
-* [First you need Execute this Script](https://github.com/FatihBaycu/RentACarProject/blob/master/CarRentalDatabase.sql)
-* [And then change local patch address](https://github.com/FatihBaycu/RentACarProject/blob/master/DataAccess/Concrete/EntityFramework/RentACarContext.cs)
+* [First you need Execute this Script](https://github.com/Aysenurert123/RentACarProject/blob/master/CarRentalDatabase.sql)
+* [And then change local patch address](https://github.com/Aysenurert123/RentACarProject/blob/master/DataAccess/Concrete/EntityFramework/RentACarContext.cs)
